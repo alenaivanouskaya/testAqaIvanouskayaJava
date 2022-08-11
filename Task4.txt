@@ -1,0 +1,6 @@
+1. In terms of maths, Bracket sequence [((())()(())]] may be incorrect because of:
+    - Case 1. Missing opening and closing brackets.
+    - Case 2. Extra opening and closing brackets.
+2. To make it right, it needs to:
+    - Case 1. Add the missing opening and closing brackets. In this case, corrected bracket sequence is [[((()()()(())))]].
+    - Case 2. Delete the extra opening and closing brackets. In this case, corrected bracket sequence is [((()()))].
